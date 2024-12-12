@@ -19,3 +19,4 @@ A GAME AUTOMATION USING RL
 	In case of multiple bullets we were unable to train well. We will try running it for longer time to see if we can recieve desirable result.
 	Develop a better reward function, tune hyper-parameter.
 	 
+[ESCAPE THE BULLET (1).pdf](https://github.com/user-attachments/files/18111780/ESCAPE.THE.BULLET.1.pdf)
