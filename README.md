@@ -1,4 +1,4 @@
-﻿**ESCAPE THE BULLET![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.001.png)**
+**ESCAPE THE BULLET![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.001.png)**
 
 A GAME AUTOMATION USING RL
 
@@ -12,7 +12,7 @@ level-2 ( 3bullets + shoot)
 
 game and train vamsi , env-vanshika for  level-1.0,1.2 game and train vanshika , env-vanshika for level-1.1 level-2 vamsi (A2C),  level-2(PPO)- vanshika
 
-![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.002.jpeg)
+![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.002.jpeg)
 
 [**git hub link**](https://github.com/sunkustar/ESCAPE-THE-BULLET)
 
@@ -22,11 +22,10 @@ BY
 
 VAMSI KRISHNA (12141630) VANSHIKA (12141720)
 
-**level-1![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.003.png)**
+**level-1![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.003.png)**
 
 the bullet keeps  reflecting in 45  degrees angle the drone has to escape from the bullet
 
-![ref1]
 
 **env**
 
@@ -54,13 +53,13 @@ big negative apon death
 
 **Training**
 
-we have created environment in gymanasium and used stablebaseline3 for training .![ref2]
+we have created environment in gymanasium and used stablebaseline3 for training .
 
 ` `we tried A2C and PPO algorithms as they are suitable for  multidiscrete and box space types
 
 logs are in logs folder 
 
-![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.006.png)
+![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.006.png)
 
 **Observation**
 
@@ -84,11 +83,10 @@ in respective folders in model folder in github
 
 
 
-**level-1 (direction)![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.007.png)**
+**level-1 (direction)![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.007.png)**
 
 the bullet keeps  reflecting in random   angle the drone has to escape from the bullet
 
-![ref1]
 
 **env**
 
@@ -114,13 +112,13 @@ big negative apon death
 
 **Training**
 
-we have created environment in gymanasium and used stablebaseline3 for training .![ref3]
+we have created environment in gymanasium and used stablebaseline3 for training .
 
 ` `we tried A2C and PPO algorithms as they are suitable for  multidiscrete and box space types
 
 logs are in logs folder 
 
-![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.009.png)
+![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.009.png)
 
 **Observation**
 
@@ -144,11 +142,11 @@ in respective folders in model folder in github
 
 
 
-**level-1 (3 bullets)![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.010.png)**
+**level-1 (3 bullets)![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.010.png)**
 
 the bullet keeps  reflecting in 45  degrees angle the drone has to escape from the bullet
 
-![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.011.png)
+![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.011.png)
 
 **env**
 
@@ -174,11 +172,11 @@ termination -> upon death , upon killing all 3 bullets
 
 **Training**
 
-we have created environment in gymanasium and used stablebaseline3 for training .![ref3]
+we have created environment in gymanasium and used stablebaseline3 for training .
 
 ` `we tried A2C and PPO algorithms as they are suitable for  multidiscrete and box space types
 
-logs are in logs folder ![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.012.png)
+logs are in logs folder ![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.012.png)
 
 **Observation**
 
@@ -202,11 +200,11 @@ in respective folders in model folder in github
 
 
 
-**level-2 (3 bullets, shoot)![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.013.png)**
+**level-2 (3 bullets, shoot)![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.013.png)**
 
 the bullets keeps  reflecting in 45  degrees angle the drone has to escape from the bullet if they hit by red bullet they passout 
 
-![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.014.png)
+![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.014.png)
 
 **env**
 
@@ -236,15 +234,15 @@ termination -> upon death
 
 **Training**
 
-we have created environment in gymanasium and used stablebaseline3 for training .![ref2]
+we have created environment in gymanasium and used stablebaseline3 for training .
 
 ` `we tried A2C and PPO algorithms as they are suitable for  multidiscrete and box space types
 
 logs are in logs folder 
 
-A2C![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.015.png)![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.016.png)
+A2C![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.015.png)![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.016.png)
 
-` `![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.017.png)![](Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.018.png)
+` `![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.017.png)![](content/Aspose.Words.258431a5-3ae7-4d53-992f-ad758f57c683.018.png)
 
 PPO 
 
